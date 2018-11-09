@@ -1,0 +1,10 @@
+[web-infra]
+gandalf1.intranet
+gandalf2.intranet
+
+[db-infra]
+bilbo1.intranet
+bilbo2.intranet
+
+[sre-infra]
+morpheus.intranet ansible_connection=local
